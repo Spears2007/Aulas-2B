@@ -1,3 +1,35 @@
 body{
     background-color: #DCCC38;
 }
+.search-box{
+    position: absolute;
+    top: 5%;
+    left: 92%;
+    transform: translate(-95%, -8%);
+    background-color: #DCCC38;
+    height: 35px;
+    padding: 7%;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
